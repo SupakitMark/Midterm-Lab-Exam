@@ -1,1 +1,1 @@
-# Midterm-Lab-Exam
+Smart Class Check-in & Learning Reflection App
